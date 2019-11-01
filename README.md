@@ -81,6 +81,7 @@
 ## Find me at
 
 - [LinkedIn: horst-graf](https://www.linkedin.com/in/horst-graf-431b6b3/)
+- [Xing: Horst-Graf](https://www.xing.com/profile/Horst_Graf/cv)
 - [Github: hogrix](https://github.com/hogrix)
 - [www.hogrix.de/business/hogrix.html](www.hogrix.de/business/hogrix.html)
 - [mail@hogrix.de](mailto:mail@hogrix.de)
