@@ -11,7 +11,11 @@
 
 ## Career
 
-### _April 2018 to Present_ - **LACROIX Electronics GmbH, Willich** - Software Engineer
+### _January 2022 to Present_ - working as System and Software Developer at Pintsch GmbH, Dinslaken; delegated by **Brunel GmbH, Duisbug**
+
+- Requirement-Engineering, SW-Architecture, Design, Systemtesting for Railway-Equipment
+
+### _April 2018 to December 2021_ - **LACROIX Electronics GmbH, Willich** - Software Engineer
 
 - SW Development for Embedded Systems from Requirement Analysis with Spezifikation, Design, Coding, Tests and Maintenance.
 - Software for Produktionstesting-Systems.
@@ -62,7 +66,7 @@
 
 ## Skills
 
-| **Languages              ** | **Operating Systems**      | **Other**                   |
+| **Languages**               | **Operating Systems**      | **Other**                   |
 | --------------------------- | -------------------------- | --------------------------- |
 | C/C++                       | Linux                      | Systems Architecture        |
 | C#                          | Embedded Linux             | Requirement Engineering     |
