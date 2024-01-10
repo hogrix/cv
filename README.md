@@ -23,15 +23,14 @@
 ### _January 2017 to March 2018_ - **TES Electronic Solutions GmbH, Duesseldorf** - Senior Design Engineer - Embedded Software
 
 - working in different customer projects
-- for a Homeware-Equipment Manufacturer: Requirement-Engineering and SW-Implementierung on an Embedded Linux system
-- for another Homeware-Equipment Manufacturer: MMI-Specification, -Modelling and SW-Implementation on Windows/Embedded Linux. Integration tests, fault tracker handling.
+  - for Vorwerk's Thermomix TM6: Requirement-Engineering and SW-Implementierung on an Embedded Linux system
+  - for Miele washing machines: MMI-Specification, -Modelling and SW-Implementation on Windows/Embedded Linux. Integration tests, fault tracker handling.
 - internal: Internet of Things Study
 
 ### _July 2016 to January 2017_ - **mBoss GmbH, Transfergesellschaft, Düsseldorf** 
 
-- Developed features that ensured that customers data could be sent to different types of storage depending on the content of that data. This allowed customers to more easily comply with regulation and data retention requirements.
-
-- As the Scrum Master for my team ensuring that our agile process continued and improved over time.
+- Self-educated professional training in C# Programming, Internet Security.
+- Job application training
 
 ### _October 1993 to June 2016_ - **Nokia Networks, Düsseldof** - various tasks in R&D center
 
