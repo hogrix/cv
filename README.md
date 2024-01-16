@@ -16,10 +16,10 @@
 - Unit and module tests as acceptance tests
 	- ARM controller, Keil cross-compiler suite, TESSY Test-suite (to automate the entire unit test cycle including regression tests for embedded software in C/C++ on various target systems).
 - System and requirements engineer for axle counting system
-	- System and function specification (verbally and graphically with UML diagrams)
+	- System and function specification (in writing and graphically with UML diagrams)
 	- Requirement-Engineering with DOORS and DOORS NG
 - System and requirements engineer for point-systems
-	- System and function specification (verbally and graphically with UML diagrams)
+	- System and function specification (in writing and graphically with UML diagrams)
 	- Requirement-Engineering with DOORS NG
 	- Software-Architecture and development for PLC with STL programming language
 	- Use of OPC UA server/clients for data exchange between PLC and diagnostic systems
