@@ -11,12 +11,15 @@
 
 ## Career
 
-### _January 2022 to January 2024_ - working as System and Software Developer at Pintsch GmbH, Dinslaken; delegated by **Brunel GmbH, Duisbug**
+### _since January 2022_ - working as System and Software Developer at Brunel GmbH, Duisburg
+
+#### _January 2022 to January 2024_ - delegated to Pintsch GmbH, Dinslaken
 
 - Unit and module tests as acceptance tests
 	- ARM controller, Keil cross-compiler suite, TESSY Test-suite (to automate the entire unit test cycle including regression tests for embedded software in C/C++ on various target systems).
+- Systemdevelopment according to CENELEC standards for Railway Systems
 - System and requirements engineer for axle counting system
-	- System and function specification (in writing and graphically with UML diagrams)
+ 	- System and function specification (in writing and graphically with UML diagrams)
 	- Requirement-Engineering with DOORS and DOORS NG
 - System and requirements engineer for point-systems
 	- System and function specification (in writing and graphically with UML diagrams)
