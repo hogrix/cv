@@ -4,7 +4,7 @@
 
 ## Introduction
 
-- experienced Sotware engineer in the telecommunications- or automotive area
+- experienced Sotware engineer in the telecommunications- and transportation (railway, automotive) area
 - based in Krefeld, Germany
 - passionate about building great software together
 
@@ -17,12 +17,14 @@
 
 - Unit and module tests as acceptance tests
 	- ARM controller, Keil cross-compiler suite, TESSY Test-suite (to automate the entire unit test cycle including regression tests for embedded software in C/C++ on various target systems).
-- Systemdevelopment according to CENELEC standards for Railway Systems
+- Systemdevelopment-process according to CENELEC standards for Railway Systems
 - System and requirements engineer for axle counting system
  	- System and function specification (in writing and graphically with UML diagrams)
+  	- check for matching EULYNX requirements
 	- Requirement-Engineering with DOORS and DOORS NG
 - System and requirements engineer for point-systems
 	- System and function specification (in writing and graphically with UML diagrams)
+ 	- check for matching Neupro- and EULYNX-requirements
 	- Requirement-Engineering with DOORS NG
 	- Software-Architecture and development for PLC with STL programming language
 	- Use of OPC UA server/clients for data exchange between PLC and diagnostic systems
