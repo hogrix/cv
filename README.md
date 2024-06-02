@@ -11,7 +11,15 @@
 
 ## Career
 
-### _since January 2022_ - working as System and Software Developer at Brunel GmbH, Duisburg
+### _since May 2024_ - working as Senior Embedded Engineer at CES (C.Ed. Schulte GmbH Zylinderschlossfabrik), Velbert
+
+- Develop electronic locking systems
+	- agile development teams
+ 	- C and C++ language
+ 	- different OS (Zephyr, FreeRTOS, self-made)
+  	- different wireless standards (NFC, Bluetooth, Thread)
+   
+### _January 2022 to April 2024_ - working as System and Software Developer at Brunel GmbH, Duisburg
 
 #### _January 2022 to January 2024_ - delegated to Pintsch GmbH, Dinslaken
 
